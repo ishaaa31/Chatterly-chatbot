@@ -39,14 +39,11 @@ streamlit run src/app.py
 docker build -t chatterly .
 docker run -p 8501:8501 chatterly
 
-## 🧪 Research Focus
-This project investigates:
+### 🧪 Research Focus
 
-How semantic memory graphs improve long-term coherence
-
-How episodic memory affects personalization
-
-Evaluation metrics for memory relevance and citation accuracy
+- How semantic memory graphs improve long-term coherence  
+- How episodic memory affects personalization  
+- Evaluation metrics for memory relevance and citation accuracy
 
 ## 🛠️ Tech Stack
 Frontend: Streamlit
