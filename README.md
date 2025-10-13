@@ -34,12 +34,12 @@ User Input → Prompt Builder → LLM Router → Gemini API
 4. Add your Gemini API key in Secrets:
 
 ### Local
-```bash
+bash
 streamlit run src/app.py
 docker build -t chatterly .
 docker run -p 8501:8501 chatterly
 
-### 🧪 Research Focus
+## 🧪 Research Focus
 
 - How semantic memory graphs improve long-term coherence  
 - How episodic memory affects personalization  
