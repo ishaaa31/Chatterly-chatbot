@@ -2,7 +2,7 @@
 
 Chatterly is a modular, research-grade chatbot system designed to explore memory-augmented dialogue using Gemini LLMs, semantic graphs, and episodic context tracking. Built for academic research and real-world deployment, it integrates multiple memory layers and dynamic model routing to deliver coherent, personalized conversations.
 
-## [Live Demo](https://chatterly-chatbot.streamlit.app/)
+## [View Live Demo](https://chatterly-chatbot.streamlit.app/)
 
 ## 🔍 Features
 
